@@ -1,1 +1,4 @@
-This text file is supposed to be modified. It is in 'CloneThisRepo' repository 
+This text file is supposed to be modified. It is in 'CloneThisRepo' repository
+
+This is the line which i will add in this text file as a modification and 
+then merge it into the main branch 
